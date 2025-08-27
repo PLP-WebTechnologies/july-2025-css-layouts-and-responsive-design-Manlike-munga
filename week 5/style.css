@@ -1,0 +1,44 @@
+body {
+    height: auto;
+  margin: 33px;
+  background-color: pink;
+  padding: 11px;
+  box-sizing: border-box;
+}
+.fixed-nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: darkblue;
+    padding: 10px;
+    text-align: center;
+}
+section{  
+    height: auto;
+    background: purple;
+    padding: 15px;
+}
+p {display: inline;
+
+}
+.container{
+    display: row;
+    width: 200px;
+    height: auto;
+    background-color: lightskyblue;
+    border: 10px;
+}
+.one{background:lightblue}
+.two{background:purple}
+
+footer {
+  background: greenyellow;
+  color: black;
+  text-align: center;
+  padding: 15px;
+}
+
+img {
+    float: right;
+}
